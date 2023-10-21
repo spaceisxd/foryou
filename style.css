@@ -1,7 +1,7 @@
 body {
     overflow: hidden;
     font-family: "Roboto", serif;
-    background: linear-gradient(135deg, #202020, #00725d);
+    background: linear-gradient(135deg, #202020, #000000);
   }
   
   .carousel {
